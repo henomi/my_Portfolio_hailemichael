@@ -1,36 +1,102 @@
-# Developer Portfolio (React + Tailwind CSS)
+# Hi, I'm Hailemichael Tamirat 👋
 
-Dark-first portfolio with light mode, project showcase, CV download and contact form.
+### Frontend Developer | React | Next.js | JavaScript | Tailwind CSS
 
-## Run it
+I'm a Computer Science graduate from Salale University with a passion for building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital experiences and continuously improving my skills through hands-on projects.
 
-```bash
-npm install
-npm run dev        # http://localhost:5173
-npm run build      # production build in /dist
-npm run preview    # preview the build
-```
-Requires Node.js 18 or newer.
+- 📍 Based in Addis Ababa, Ethiopia
+- 🎓 BSc in Computer Science — Salale University, June 2025
+- 💻 Focused on frontend development and modern web technologies
+- 🌱 Currently expanding my skills in React, Next.js, and full-stack web development
+- 🤝 Open to junior frontend developer roles, internships, and collaboration opportunities
 
-## Make it yours
+---
 
-1. Edit `src/data/portfolio.js`: name, email, links, about text, skills and projects.
-2. Replace `public/cv.pdf` with your CV (keep the file name, or change `cvUrl`).
-3. Update the `<title>` in `index.html`.
-4. Add `repo` and `live` links to each project. Buttons appear only when a link is set.
+## 🛠️ Tech Stack
 
-## Contact form
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Next.js
+- Tailwind CSS
 
-- Without setup, the form opens the visitor's email app with the message filled in.
-- For real submissions: create a free form at https://formspree.io, copy `.env.example` to `.env`
-  and set `VITE_FORMSPREE_ID=yourFormId`. Restart `npm run dev`.
+### Tools & Technologies
+- Git and GitHub
+- npm
+- Visual Studio Code
+- REST APIs
+- Responsive Web Design
 
-## Colours and fonts
+### Currently Learning
+- Advanced React and Next.js
+- Authentication and authorization
+- API integration and application architecture
 
-Colour tokens live in `src/index.css` (`:root` for light, `.dark` for dark).
-Change `--accent` to restyle the whole site. Fonts are set in `index.html` and `tailwind.config.js`.
+---
 
-## Deploy
+## 🚀 Featured Projects
 
-- Vercel or Netlify: import the GitHub repo. Build command `npm run build`, output folder `dist`.
-  Add `VITE_FORMSPREE_ID` in the host's environment variables.
+### 1. Adis Eatery — Food Ordering Web Application
+
+A restaurant web application focused on Ethiopian food, online ordering, and delivery management.
+
+**Features**
+- Browse dishes by category
+- View individual dish details
+- Shopping cart and checkout
+- User registration and sign-in
+- Order management
+- Admin dashboard
+- Revenue visualization
+- Delivery tracking map
+
+**Technologies:** Next.js, React, JavaScript, Tailwind CSS, REST API routes
+
+**Repository:** [View Adis Eatery on GitHub](https://github.com/henomi/IBT---Canada---Projects)
+
+### 2. Employee Management System
+
+A web-based application designed to organize and manage employee information.
+
+**Technologies:** HTML, CSS, JavaScript, PHP
+
+**Features**
+- Employee information management
+- Structured employee records
+- User-friendly interface
+
+**Repository:** Add your project repository link here when available.
+
+---
+
+## 🎓 Education
+
+**Salale University**  
+Bachelor of Science in Computer Science  
+Graduated: June 2025
+
+**IBT College of Canada**  
+Software Development and QA Training  
+June – December 2026
+
+---
+
+## 🌍 Languages
+
+- **Amharic:** Native
+- **English:** Fluent
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [@henomi](https://github.com/henomi)
+- **LinkedIn:** [Hailemichael Tamirat](https://www.linkedin.com/in/hailemichael-tamirat/)
+
+I'm interested in opportunities where I can contribute to real projects, learn from experienced developers, and build useful web applications.
+
+---
+
+⭐ *Thanks for visiting my portfolio! Feel free to explore my projects and connect with me.*
